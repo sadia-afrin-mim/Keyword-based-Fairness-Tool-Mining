@@ -1,0 +1,51 @@
+Keyword,Repository Name,Owner,Description,URL
+AI bias,AIF360,Trusted-AI,"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",https://github.com/Trusted-AI/AIF360
+AI bias,awesome-fairness-in-ai,datamllab,A curated list of awesome Fairness in AI resources,https://github.com/datamllab/awesome-fairness-in-ai
+AI bias,Fairness-in-AI,dreji18,Detecting Bias and ensuring Fairness in AI solutions,https://github.com/dreji18/Fairness-in-AI
+AI bias,bias-mitigation-of-machine-learning-models-using-aif360,IBM,"""' '""",https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360
+AI bias,ensure-loan-fairness-aif360,IBM,"A demonstration of the AI Fairness 360 toolbox for bias metrics, explanations, and remediation.  Code Pattern: https://developer.ibm.com/patterns/ensuring-fairness-when-processing-loan-applications",https://github.com/IBM/ensure-loan-fairness-aif360
+AI bias,Awesome_BigData_AI_DrugDiscovery,Bin-Chen-Lab,A collection of resources useful for leveraging big data and AI for drug discovery. It mainly serves as an orientation for new lab folks. It may be biased towards my lab interest.,https://github.com/Bin-Chen-Lab/Awesome_BigData_AI_DrugDiscovery
+AI bias,coursera-gan-specialization,amanchadha,Programming assignments and quizzes from all courses within the GANs specialization offered by deeplearning.ai,https://github.com/amanchadha/coursera-gan-specialization
+AI bias,ResponsibleAI,romanlutz,"A collection of news articles, books, and papers on Responsible AI cases. The purpose is to study these cases and learn from them to avoid repeating the failures of the past.",https://github.com/romanlutz/ResponsibleAI
+AI bias,bias-in-AI-course,alan-turing-institute,,https://github.com/alan-turing-institute/bias-in-AI-course
+AI bias,Machine-Learning-Ethics-References,radames,List of references about Machine Learning bias and ethics ,https://github.com/radames/Machine-Learning-Ethics-References
+AI Fairness,AIF360,Trusted-AI,"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",https://github.com/Trusted-AI/AIF360
+AI Fairness,awesome-fairness-in-ai,datamllab,A curated list of awesome Fairness in AI resources,https://github.com/datamllab/awesome-fairness-in-ai
+AI Fairness,mmf,facebookresearch,A modular framework for vision & language multimodal research from Facebook AI Research (FAIR),https://github.com/facebookresearch/mmf
+AI Fairness,fairlearn,fairlearn,A Python package to assess and improve fairness of machine learning models.,https://github.com/fairlearn/fairlearn
+AI Fairness,ensure-loan-fairness-aif360,IBM,"A demonstration of the AI Fairness 360 toolbox for bias metrics, explanations, and remediation.  Code Pattern: https://developer.ibm.com/patterns/ensuring-fairness-when-processing-loan-applications",https://github.com/IBM/ensure-loan-fairness-aif360
+AI Fairness,Fairness-in-AI,dreji18,Detecting Bias and ensuring Fairness in AI solutions,https://github.com/dreji18/Fairness-in-AI
+AI Fairness,FairAI,yongkaiwu, This is a collection of papers and other resources related to fairness.,https://github.com/yongkaiwu/FairAI
+AI Fairness,xaience,andreysharapov,"All about explainable AI, algorithmic fairness and more",https://github.com/andreysharapov/xaience
+AI Fairness,responsible-ai-toolbox,microsoft,"Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",https://github.com/microsoft/responsible-ai-toolbox
+AI Fairness,mli-resources,h2oai,H2O.ai Machine Learning Interpretability Resources,https://github.com/h2oai/mli-resources
+fairness metrics,AIF360,Trusted-AI,"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",https://github.com/Trusted-AI/AIF360
+fairness metrics,Metrics,FAIRMetrics,This repository contains the results of the FAIR Metrics Group,https://github.com/FAIRMetrics/Metrics
+fairness metrics,rexmex,AstraZeneca,A general purpose recommender metrics library for fair evaluation.,https://github.com/AstraZeneca/rexmex
+fairness metrics,Fairness.jl,ashryaagr,Julia Toolkit with fairness metrics and bias mitigation algorithms,https://github.com/ashryaagr/Fairness.jl
+fairness metrics,fairness,kozodoi,R package for computing and visualizing fair ML metrics,https://github.com/kozodoi/fairness
+fairness metrics,TedEval,clovaai,TedEval: A Fair Evaluation Metric for Scene Text Detectors,https://github.com/clovaai/TedEval
+fairness metrics,ensure-loan-fairness-aif360,IBM,"A demonstration of the AI Fairness 360 toolbox for bias metrics, explanations, and remediation.  Code Pattern: https://developer.ibm.com/patterns/ensuring-fairness-when-processing-loan-applications",https://github.com/IBM/ensure-loan-fairness-aif360
+fairness metrics,image-crop-analysis,twitter-research,"Code for reproducing our analysis in the paper titled: Image Cropping on Twitter: Fairness Metrics, their Limitations, and the Importance of Representation, Design, and Agency",https://github.com/twitter-research/image-crop-analysis
+fairness metrics,Metric-Fairness,txsun1997,EMNLP'2022: BERTScore is Unfair: On Social Bias in Language Model-Based Metrics for Text Generation,https://github.com/txsun1997/Metric-Fairness
+fairness metrics,rocket_prometheus,sd2k,Prometheus fairing and handler for Rocket,https://github.com/sd2k/rocket_prometheus
+bias mitigation,DomainBiasMitigation,princetonvisualai,,https://github.com/princetonvisualai/DomainBiasMitigation
+bias mitigation,fairmodels,ModelOriented,"Flexible tool for bias detection, visualization, and mitigation",https://github.com/ModelOriented/fairmodels
+bias mitigation,AIF360,Trusted-AI,"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",https://github.com/Trusted-AI/AIF360
+bias mitigation,amazon-sagemaker-clarify,aws,Fairness Aware Machine Learning. Bias detection and mitigation for datasets and models.,https://github.com/aws/amazon-sagemaker-clarify
+bias mitigation,Fairness.jl,ashryaagr,Julia Toolkit with fairness metrics and bias mitigation algorithms,https://github.com/ashryaagr/Fairness.jl
+bias mitigation,bias-mitigation-of-machine-learning-models-using-aif360,IBM,"""' '""",https://github.com/IBM/bias-mitigation-of-machine-learning-models-using-aif360
+bias mitigation,bias-mitigation,CDEIUK,Machine Learning Bias Mitigation,https://github.com/CDEIUK/bias-mitigation
+bias mitigation,LM_bias,pliang279,[ICML 2021] Towards Understanding and Mitigating Social Biases in Language Models,https://github.com/pliang279/LM_bias
+bias mitigation,Position-Bias-Mitigation-in-Emotion-Cause-Analysis,hanqi-qi,ACL2021:Position Bias Mitigation: A Knowledge-Aware Graph Model for EmotionCause Extraction,https://github.com/hanqi-qi/Position-Bias-Mitigation-in-Emotion-Cause-Analysis
+bias mitigation,responsibly,ResponsiblyAI,Toolkit for Auditing and Mitigating Bias and Fairness of Machine Learning Systems 🔎🤖🧰,https://github.com/ResponsiblyAI/responsibly
+model fairness,fairlearn,fairlearn,A Python package to assess and improve fairness of machine learning models.,https://github.com/fairlearn/fairlearn
+model fairness,AIF360,Trusted-AI,"A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",https://github.com/Trusted-AI/AIF360
+model fairness,SlowFast,facebookresearch,PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.,https://github.com/facebookresearch/SlowFast
+model fairness,fairseq2,facebookresearch,FAIR Sequence Modeling Toolkit 2,https://github.com/facebookresearch/fairseq2
+model fairness,amazon-sagemaker-clarify,aws,Fairness Aware Machine Learning. Bias detection and mitigation for datasets and models.,https://github.com/aws/amazon-sagemaker-clarify
+model fairness,pyfair,Hive-Systems,Factor Analysis of Information Risk (FAIR) model written in Python.,https://github.com/Hive-Systems/pyfair
+model fairness,interpretable_machine_learning_with_python,jphall663,"Examples of techniques for training interpretable ML models, explaining ML models, and debugging ML models for accuracy, discrimination, and security.",https://github.com/jphall663/interpretable_machine_learning_with_python
+model fairness,monitor-wml-model-with-watson-openscale,IBM,"Monitor performance, fairness, and quality of a WML model with AI OpenScale APIs",https://github.com/IBM/monitor-wml-model-with-watson-openscale
+model fairness,differential-privacy-vs-fairness,ebagdasa,"Code for ""Differential Privacy Has Disparate Impact on Model Accuracy"" NeurIPS'19",https://github.com/ebagdasa/differential-privacy-vs-fairness
+model fairness,DALEX,ModelOriented,moDel Agnostic Language for Exploration and eXplanation,https://github.com/ModelOriented/DALEX
