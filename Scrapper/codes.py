@@ -2,7 +2,7 @@ import requests
 import csv
 
 def search_github_codes(keyword, max_results=15):
-    access_token = "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"
+    access_token = ""
 
     # The keyword you want to search for
     search_keyword = "fairlearn"
