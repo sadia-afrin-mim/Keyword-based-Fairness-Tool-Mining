@@ -7,7 +7,7 @@ import requests
 
 def search_github_commit(keyword, max_results=10):
     # setup owner name , access_token, and headers
-    access_token = "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"
+    access_token = ""
 
     # The keyword you want to search for
     search_keyword = "fairlearn"
