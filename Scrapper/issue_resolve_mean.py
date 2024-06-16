@@ -33,7 +33,7 @@ def get_average_issue_resolve_time(repo_url, token):
 
 if __name__ == "__main__":
     # Replace 'YOUR_GITHUB_TOKEN' with your actual GitHub token
-    github_token = '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'
+    github_token = ''
 
     # Replace 'OWNER/REPO_NAME' with the desired GitHub repository
     repository_url = 'https://github.com/Trusted-AI/AIF360'
