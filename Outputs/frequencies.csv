@@ -1,0 +1,210 @@
+Word,Frequency
+,52809
+CLA Signed,10084
+scope: curriculum,7703
+platform: learn,4822
+invalid,4553
+React Core Team,3184
+status: waiting review,2793
+scope: i18n,2684
+Status: Unconfirmed,2618
+renovate,2377
+scope: tools/scripts,2114
+type: bug,2112
+help wanted,2101
+scope: docs,1428
+crowdin-sync,1359
+waiting for changes,1276
+status: merge conflict,1228
+Component: Developer Tools,1092
+status: waiting update,1053
+Type: Bug,1029
+platform: api,884
+status: discussing,865
+scope: UI,764
+first timers only,746
+:rocket: ready to merge,737
+Resolution: Stale,661
+hacktoberfest-accepted,646
+Resolution: Needs More Information,583
+type: feature request,526
+new javascript course,483
+other: decayed,476
+needs-review,471
+spam,412
+suggestion,392
+dependencies,389
+status: blocked,387
+Component: DOM,381
+linter error,366
+Type: Discussion,360
+:speaking_head: locale:en,335
+Resolution: Duplicate,293
+status: resolved/shipping,290
+PR requested,261
+duplicate,243
+Type: Needs Investigation,237
+Type: Feature Request,236
+conflicts,223
+Type: Question,222
+question,216
+type: showstopper,200
+enhancement,173
+awaiting PR evolution,168
+Resolution: Support Redirect,152
+status: on the roadmap,141
+Type: Enhancement,137
+React 18,136
+scope: a11y,135
+status: PR in works,128
+Component: ESLint Rules,127
+platform: news,119
+bug,116
+changes made,110
+Component: Build Infrastructure,102
+other: device specific,100
+🤖 automation,99
+new python course,98
+:speaking_head: translations,93
+Resolution: Expected Behavior,93
+good first issue (taken),91
+:busts_in_silhouette: discussion,88
+Component: Reconciler,85
+status: wontfix,83
+🔗 dependencies,83
+🔗 dependencies:github-actions,82
+urlchecker,79
+:speaking_head: locale:ko,78
+:speaking_head: locale:hi,76
+good first issue,75
+New Feature,74
+stale,71
+feature request,69
+new english course,68
+Component: Server Rendering,65
+Component: Hooks,61
+:speaking_head: locale:pt,54
+translation,54
+Component: Concurrent Features,54
+Difficulty: starter,54
+:speaking_head: locale:id,52
+:speaking_head: locale:es,51
+platform: forum,49
+:speaking_head: locale:tr,49
+status: waiting triage,47
+not free?,47
+:speaking_head: locale:bn,45
+:eyes: Needs Review,40
+Component: Core Utilities,40
+stale: closed,37
+:speaking_head: locale:ar,37
+Component: Suspense,37
+Type: Regression,37
+Resolution: Invalid,37
+other: bike shedding,36
+:speaking_head: locale:zh,36
+Difficulty: medium,36
+:bug: BUG,32
+:speaking_head: locale:it,31
+:speaking_head: locale:fa_IR,29
+:speaking_head: locale:ru,29
+:speaking_head: locale:fr,29
+front 3 2023,26
+automated pr,26
+:speaking_head: locale:de,25
+platform: coderadio,23
+keep,23
+:speaking_head: locale:vi,23
+:speaking_head: locale:pl,23
+Component: Test Utils,23
+Browser: IE,23
+Resolution: Wontfix,23
+user-feedback-wanted,22
+Resolution: Backlog,22
+resolve conflict required,21
+Component: Test Renderer,21
+:speaking_head: locale:sv,20
+incorporating-feedback,19
+feature-request,19
+Type: Umbrella,19
+list request,18
+functionality enhancement,18
+response-needed,18
+hacktoberfest,16
+odin project,16
+:speaking_head: locale:ja,16
+roadmap contribution,16
+Component: Scheduling Profiler,15
+:speaking_head: locale:th,14
+Component: Shallow Renderer,14
+Type: Breaking Change,14
+platform: search,13
+:speaking_head: locale:fil,13
+Component: Fast Refresh,13
+Component: Component API,13
+Type: Release,13
+:speaking_head: locale:ta,12
+:speaking_head: locale:el,12
+needs approval,11
+:speaking_head: locale:si,11
+Type: Big Picture,11
+:speaking_head: locale:ml,10
+:speaking_head: locale:cs,10
+Browser: Safari,10
+Partner,10
+:speaking_head: locale:hu,9
+Difficulty: challenging,9
+:speaking_head: locale:uk,8
+squash required,7
+report,7
+automated issue,7
+sponsors,7
+:speaking_head: locale:km,6
+:speaking_head: locale:ro,6
+:speaking_head: locale:et,6
+Component: Scheduler,6
+Component: Optimizing Compiler,6
+:speaking_head: locale:he,5
+:speaking_head: locale:nl,5
+:speaking_head: locale:da,5
+:speaking_head: locale:te,4
+:speaking_head: locale:fi,4
+:speaking_head: locale:sk,4
+:speaking_head: locale:kk,4
+:speaking_head: locale:no,4
+:speaking_head: locale:my,4
+:speaking_head: locale:sl,4
+:speaking_head: locale:bs,4
+test needed,4
+discussion,4
+Status: New,4
+status: flagged internally,3
+platform: contribute,3
+:pushpin: pinned,3
+:speaking_head: locale:az,3
+HTML,3
+:speaking_head: locale:ne,2
+:speaking_head: locale:bg,2
+important,2
+alphabetical ordering is required,2
+update link,2
+Accepted,2
+closing-soon-if-no-response,2
+Size: Medium,2
+Size: Large,2
+Size: Small-Medium,2
+Size: Small,2
+Component: ReactIs,2
+SVG,2
+Needs Browser Testing,2
+:speaking_head: locale:lv,1
+:speaking_head: locale:sr,1
+new category,1
+awaiting build,1
+proposal,1
+announcement,1
+Size: Medium-Large,1
+fb-exported,1
+Type: Security,1
+Component: Flight,1
+❤️,1

@@ -1,0 +1,192 @@
+Issue Number,Title,State,Created At,Updated At,URL
+502,AIF 360 for images,open,2023-11-13T11:33:25Z,2023-11-13T11:33:25Z,https://github.com/Trusted-AI/AIF360/issues/502
+501,"Error when installing in R on Win 10 with ""Error 1""",open,2023-10-27T11:23:48Z,2023-10-27T11:55:19Z,https://github.com/Trusted-AI/AIF360/issues/501
+500,Request for New Release Compatible with Latest Numpy Version,open,2023-10-18T09:05:48Z,2023-11-17T09:08:23Z,https://github.com/Trusted-AI/AIF360/issues/500
+499,issue with fetch_lawschool_gpa,open,2023-10-11T09:09:42Z,2023-10-11T13:56:30Z,https://github.com/Trusted-AI/AIF360/issues/499
+496,Building docs with python >= 3.10 and sphinx < 2 fails,open,2023-09-29T12:41:58Z,2023-10-01T17:05:37Z,https://github.com/Trusted-AI/AIF360/issues/496
+495,Update demo_adversarial_debiasing.ipynb,open,2023-09-22T23:30:32Z,2023-09-26T21:25:33Z,https://github.com/Trusted-AI/AIF360/pull/495
+494,Fix demo lfr,open,2023-09-22T23:22:25Z,2023-09-26T21:21:47Z,https://github.com/Trusted-AI/AIF360/pull/494
+493,Installed all functionalities of aif360,open,2023-09-22T23:01:30Z,2023-10-09T16:17:23Z,https://github.com/Trusted-AI/AIF360/pull/493
+492,Download LawSchool dataset directly from SEAPHE,open,2023-09-22T22:36:42Z,2023-10-15T15:39:13Z,https://github.com/Trusted-AI/AIF360/pull/492
+491,Update demo_exponentiated_gradient_reduction.ipynb to run out of the box on colab,open,2023-09-22T22:24:30Z,2023-09-26T21:29:53Z,https://github.com/Trusted-AI/AIF360/pull/491
+490,Fix demo json explainers,open,2023-09-22T22:13:04Z,2023-09-26T21:31:05Z,https://github.com/Trusted-AI/AIF360/pull/490
+489,Include additional classification metrics #88,open,2023-09-22T22:00:58Z,2023-09-26T21:31:42Z,https://github.com/Trusted-AI/AIF360/pull/489
+488,PR for Issue # 391,open,2023-09-22T21:52:36Z,2023-09-26T21:32:53Z,https://github.com/Trusted-AI/AIF360/pull/488
+487,Notebook now runs out of the box on Colab,open,2023-09-22T21:35:15Z,2023-10-11T02:44:54Z,https://github.com/Trusted-AI/AIF360/pull/487
+486,Update tutorial_bias_advertising.ipynb,open,2023-09-22T21:33:23Z,2023-10-11T02:53:57Z,https://github.com/Trusted-AI/AIF360/pull/486
+485,Fix demo gerry fair,open,2023-09-22T21:19:52Z,2023-09-26T21:40:06Z,https://github.com/Trusted-AI/AIF360/pull/485
+484,Fixed str to int conversion issue,open,2023-09-22T20:57:05Z,2023-09-27T16:20:31Z,https://github.com/Trusted-AI/AIF360/pull/484
+483,Update README.md for adding fixes to avoid setup errors for Windows u…,open,2023-09-22T20:49:15Z,2023-09-27T16:34:24Z,https://github.com/Trusted-AI/AIF360/pull/483
+481,upgrade: deprecated if_delegate_has_method,open,2023-09-22T20:44:13Z,2023-09-27T16:29:43Z,https://github.com/Trusted-AI/AIF360/pull/481
+480,Update tutorial_bias_advertising.ipynb,open,2023-09-22T20:34:00Z,2023-09-26T21:42:02Z,https://github.com/Trusted-AI/AIF360/pull/480
+479,Fix impact remover,open,2023-09-22T19:45:35Z,2023-10-15T19:53:40Z,https://github.com/Trusted-AI/AIF360/pull/479
+476,Feat/demo disparate,open,2023-09-22T19:38:15Z,2023-09-22T19:38:15Z,https://github.com/Trusted-AI/AIF360/pull/476
+475,"`if_delegate_has_method` is deprecated, use `available_if` instead",open,2023-09-22T19:37:04Z,2023-09-22T20:53:23Z,https://github.com/Trusted-AI/AIF360/issues/475
+474,Add files via upload,open,2023-09-22T19:25:12Z,2023-09-22T20:22:42Z,https://github.com/Trusted-AI/AIF360/pull/474
+473,Feat/demo calibrated,open,2023-09-22T19:17:27Z,2023-09-22T19:33:17Z,https://github.com/Trusted-AI/AIF360/pull/473
+472,Fixed Google Colab for demo_calibrated_eqodds_postprocessing.ipynb,open,2023-09-22T19:00:18Z,2023-09-22T20:03:58Z,https://github.com/Trusted-AI/AIF360/pull/472
+471,Refactor openml_datasets.py,open,2023-09-22T18:59:30Z,2023-10-05T18:10:24Z,https://github.com/Trusted-AI/AIF360/pull/471
+469,fix to run out of box,open,2023-09-22T18:53:43Z,2023-09-22T18:59:16Z,https://github.com/Trusted-AI/AIF360/pull/469
+468,Added a collab badge at the top and also added all the missing aif360,open,2023-09-22T18:49:31Z,2023-09-26T20:46:36Z,https://github.com/Trusted-AI/AIF360/pull/468
+467,Modified the demo_calibrated_eqodds_postprocessing.ipynb so that it can work in Colab,open,2023-09-22T18:48:30Z,2023-09-22T20:41:13Z,https://github.com/Trusted-AI/AIF360/pull/467
+Issue Number,Title,State,Created At,Updated At,URL
+1318,Probability Calibration on Fairlearn reduction methods,open,2023-11-23T05:16:18Z,2023-11-24T17:07:58Z,https://github.com/fairlearn/fairlearn/issues/1318
+1313,Supporting Fairness Metrics for Regression,open,2023-11-14T22:20:00Z,2023-11-22T13:56:41Z,https://github.com/fairlearn/fairlearn/issues/1313
+1310,DOC Changing the dataset from Adult to Diabetes Hospital in Getting Started,open,2023-10-20T01:00:15Z,2023-11-10T11:58:30Z,https://github.com/fairlearn/fairlearn/pull/1310
+1301,DOC add link to raise issue,open,2023-10-12T16:49:52Z,2023-10-18T16:27:42Z,https://github.com/fairlearn/fairlearn/issues/1301
+1299,MNT Deal with pandas 2.0 vs 2.1,open,2023-09-29T00:17:05Z,2023-10-12T19:52:28Z,https://github.com/fairlearn/fairlearn/issues/1299
+1288,MNT Reassess pandas and scikit-learn bounds,open,2023-09-22T17:59:18Z,2023-09-26T13:49:10Z,https://github.com/fairlearn/fairlearn/issues/1288
+1283,DOC: gather generally relevant topics from introductory sections of mental health care example notebook and put them into our user guide,open,2023-08-30T18:39:39Z,2023-08-30T18:39:46Z,https://github.com/fairlearn/fairlearn/issues/1283
+1263,DOC update reductions user guide,open,2023-07-24T08:15:44Z,2023-09-12T13:26:15Z,https://github.com/fairlearn/fairlearn/issues/1263
+1262,Bias metrics for gender based on arXiv:1910.10872 paper,open,2023-07-22T19:33:44Z,2023-07-24T17:27:22Z,https://github.com/fairlearn/fairlearn/issues/1262
+1261,Q ExponentiatedGradient results vary using the same model and data,open,2023-07-20T11:08:12Z,2023-09-12T13:16:40Z,https://github.com/fairlearn/fairlearn/issues/1261
+1260,MNT reminder to unpin numpy,open,2023-07-19T07:44:04Z,2023-07-19T07:44:17Z,https://github.com/fairlearn/fairlearn/issues/1260
+1250,DOC document allowed type for sensitive features,open,2023-07-07T14:45:29Z,2023-10-12T22:23:45Z,https://github.com/fairlearn/fairlearn/issues/1250
+1248,WIP: threshold optimizer with relaxed fairness constraint fulfillment,open,2023-06-28T15:16:01Z,2023-07-07T14:36:52Z,https://github.com/fairlearn/fairlearn/pull/1248
+1246,ENH relaxed fairness constraint fulfillment via postprocessing (currently only supports strict fulfillment),open,2023-06-20T14:06:02Z,2023-06-27T15:26:54Z,https://github.com/fairlearn/fairlearn/issues/1246
+1227,Adversarial Fairness and Pytorch crashing,open,2023-03-17T18:51:00Z,2023-03-21T15:09:40Z,https://github.com/fairlearn/fairlearn/issues/1227
+1218,Have a `stable` or `latest` as alias for the latest version on the website,open,2023-03-01T08:33:33Z,2023-10-18T19:13:56Z,https://github.com/fairlearn/fairlearn/issues/1218
+1211,ValueError: Unknown solver highs-ds,open,2023-02-11T02:38:54Z,2023-04-17T14:33:59Z,https://github.com/fairlearn/fairlearn/issues/1211
+1210,data can be loaded only once,open,2023-02-11T02:34:40Z,2023-07-18T23:47:53Z,https://github.com/fairlearn/fairlearn/issues/1210
+1196,Can't use ExponentiatedGradient with GridSearchCV,open,2023-01-24T09:47:11Z,2023-07-20T11:20:29Z,https://github.com/fairlearn/fairlearn/issues/1196
+1193,DOC document all the different moments in the user guide,open,2023-01-20T16:33:12Z,2023-01-20T16:33:24Z,https://github.com/fairlearn/fairlearn/issues/1193
+1190,DOC simplify plot_grid_search_census example,open,2023-01-20T00:53:33Z,2023-01-20T02:56:52Z,https://github.com/fairlearn/fairlearn/issues/1190
+1188,MNT add GitHub workflow for testing latest released version,open,2023-01-19T19:34:13Z,2023-01-20T09:27:19Z,https://github.com/fairlearn/fairlearn/issues/1188
+1182,"DOC Replace adult/census dataset in ""Get Started""",open,2023-01-17T19:06:17Z,2023-10-16T23:44:47Z,https://github.com/fairlearn/fairlearn/issues/1182
+1176,DOC: landing page does not update,open,2023-01-13T11:53:19Z,2023-08-11T15:56:23Z,https://github.com/fairlearn/fairlearn/issues/1176
+1165,BUG feature names missing in fetch_bank_marketing and fetch_credit_card,open,2023-01-03T21:10:35Z,2023-07-10T10:04:50Z,https://github.com/fairlearn/fairlearn/issues/1165
+1155,More informative error message missing values in MetricFrame sensitive_features,open,2022-11-23T13:50:54Z,2023-03-14T11:32:02Z,https://github.com/fairlearn/fairlearn/issues/1155
+1137,PerformanceWarning: DataFrame is highly fragmented.,open,2022-10-28T09:35:59Z,2023-04-18T09:42:17Z,https://github.com/fairlearn/fairlearn/issues/1137
+1114,[DOC] LO 3.3: Generate fairness metric frame output,open,2022-07-27T17:55:05Z,2022-09-30T15:24:35Z,https://github.com/fairlearn/fairlearn/issues/1114
+1104,Fix logo and colors for dark mode on the website,open,2022-06-09T15:38:34Z,2022-07-12T07:17:11Z,https://github.com/fairlearn/fairlearn/issues/1104
+1095,"DOC Restructure the user guide ""Fairness in ML"" and ""Assessment"" sections",open,2022-05-26T18:00:51Z,2023-04-17T14:46:54Z,https://github.com/fairlearn/fairlearn/issues/1095
+Issue Number,Title,State,Created At,Updated At,URL
+231,ERROR: An error occurred during the fetch of repository 'zlib':,open,2023-10-23T09:30:59Z,2023-10-23T17:03:53Z,https://github.com/PAIR-code/what-if-tool/issues/231
+230,Bump @angular/core from 8.1.2 to 10.2.5,open,2023-10-11T00:13:40Z,2023-10-11T00:13:41Z,https://github.com/PAIR-code/what-if-tool/pull/230
+229,Bump get-func-name from 2.0.0 to 2.0.2,open,2023-09-27T20:57:01Z,2023-09-27T20:57:02Z,https://github.com/PAIR-code/what-if-tool/pull/229
+228,Update WIT_Toxicity_Text_Model_Comparison.ipynb,open,2023-09-19T20:58:57Z,2023-09-19T20:59:44Z,https://github.com/PAIR-code/what-if-tool/pull/228
+226,Cant use fairness solution for regression so In that case How to mitigate the bias for the regression model?,open,2023-01-29T15:11:08Z,2023-01-30T14:55:08Z,https://github.com/PAIR-code/what-if-tool/issues/226
+225,Bump qs from 6.5.2 to 6.5.3,open,2022-12-10T12:18:17Z,2022-12-10T12:18:18Z,https://github.com/PAIR-code/what-if-tool/pull/225
+224,Unable to import Witwidget,open,2022-12-07T14:19:46Z,2022-12-07T14:20:06Z,https://github.com/PAIR-code/what-if-tool/issues/224
+223,Bump decode-uri-component from 0.2.0 to 0.2.2,open,2022-12-05T02:27:45Z,2022-12-05T02:27:46Z,https://github.com/PAIR-code/what-if-tool/pull/223
+220,Data loading issue at scale with tensorboard what-if plugin,open,2022-11-04T19:38:49Z,2022-11-04T19:38:49Z,https://github.com/PAIR-code/what-if-tool/issues/220
+219,Enabling Persistence with what-if tensorboard plugin,open,2022-11-04T19:28:27Z,2022-11-04T19:28:27Z,https://github.com/PAIR-code/what-if-tool/issues/219
+217,what-if tool unable to return predictions - InactiveRpcError,open,2022-10-18T05:12:24Z,2022-10-18T05:23:58Z,https://github.com/PAIR-code/what-if-tool/issues/217
+215,how to install what if in managed notebook of vertex ai?,open,2022-10-03T17:32:23Z,2022-10-06T13:58:14Z,https://github.com/PAIR-code/what-if-tool/issues/215
+213,Bump jszip from 3.2.2 to 3.10.1,open,2022-09-08T11:38:04Z,2022-09-08T11:38:05Z,https://github.com/PAIR-code/what-if-tool/pull/213
+209,Replacing model with predictions data,open,2022-07-20T23:35:54Z,2022-07-22T16:53:21Z,https://github.com/PAIR-code/what-if-tool/issues/209
+206,Bump async from 2.6.3 to 2.6.4,open,2022-04-29T03:24:28Z,2022-04-29T03:24:29Z,https://github.com/PAIR-code/what-if-tool/pull/206
+205,Multiclass classification,open,2022-04-19T12:26:03Z,2022-04-25T17:29:43Z,https://github.com/PAIR-code/what-if-tool/issues/205
+204,"How do I export ""What-If-Tool"" output?",open,2022-03-31T20:31:16Z,2022-04-25T12:19:31Z,https://github.com/PAIR-code/what-if-tool/issues/204
+203,Not getting the desired output with Hugging face models on NLP tasks,open,2022-03-22T06:53:41Z,2022-03-22T12:30:18Z,https://github.com/PAIR-code/what-if-tool/issues/203
+201,WIT with Lime? ,open,2022-03-01T06:56:31Z,2022-03-01T13:17:36Z,https://github.com/PAIR-code/what-if-tool/issues/201
+200,No datapoints are loaded,open,2022-02-23T14:55:32Z,2022-12-22T08:39:26Z,https://github.com/PAIR-code/what-if-tool/issues/200
+199,Bump follow-redirects from 1.13.0 to 1.14.8,open,2022-02-13T02:37:15Z,2022-02-13T02:37:16Z,https://github.com/PAIR-code/what-if-tool/pull/199
+198,Bump pathval from 1.1.0 to 1.1.1,open,2022-02-11T01:20:34Z,2022-02-11T01:20:35Z,https://github.com/PAIR-code/what-if-tool/pull/198
+197,"Can What-if-tool handle multimodal structural data which has continuous, categorical, text and image columns?",open,2022-02-01T04:55:42Z,2022-02-01T15:34:48Z,https://github.com/PAIR-code/what-if-tool/issues/197
+196,"WIT works on my jupyter notebook, but it doesn't on vscode.",open,2022-01-28T07:01:52Z,2022-02-07T00:51:08Z,https://github.com/PAIR-code/what-if-tool/issues/196
+195,"How to generator my tfRecord file, I have generator my own TFRecord file, it's work ok on my local, but not work ok on what if tool",open,2022-01-20T02:34:08Z,2022-01-20T12:59:30Z,https://github.com/PAIR-code/what-if-tool/issues/195
+193,Bump markdown-it from 11.0.0 to 12.3.2 in /website,open,2022-01-12T23:07:13Z,2022-01-12T23:07:14Z,https://github.com/PAIR-code/what-if-tool/pull/193
+192,URL Parameters,open,2022-01-12T07:42:23Z,2022-01-13T14:53:50Z,https://github.com/PAIR-code/what-if-tool/issues/192
+189,WIT and Object Detection,open,2021-11-08T17:27:17Z,2021-11-08T19:30:03Z,https://github.com/PAIR-code/what-if-tool/issues/189
+188,witwidget doesn't display in jupyter notebook,open,2021-11-08T13:05:55Z,2021-11-10T14:23:00Z,https://github.com/PAIR-code/what-if-tool/issues/188
+185, module 'pyparsing' has no attribute 'downcaseTokens',open,2021-10-26T20:53:14Z,2022-07-24T02:35:16Z,https://github.com/PAIR-code/what-if-tool/issues/185
+Issue Number,Title,State,Created At,Updated At,URL
+347,Fix the dependencies of fairness indicators.,open,2023-10-09T17:35:51Z,2023-10-26T18:04:17Z,https://github.com/tensorflow/fairness-indicators/pull/347
+345,Plantilla de gato ,open,2023-08-27T12:40:09Z,2023-08-27T12:48:03Z,https://github.com/tensorflow/fairness-indicators/issues/345
+342,Allow Python 3.10 for FI&TB,open,2023-05-25T20:28:36Z,2023-11-16T17:03:09Z,https://github.com/tensorflow/fairness-indicators/pull/342
+338,Pass an `interpreter` argument to make the `Interpreter`.,open,2023-04-07T05:55:40Z,2023-04-07T06:34:27Z,https://github.com/tensorflow/fairness-indicators/pull/338
+335, Support for bias/unfairness mitigation for multiclass classification problems,open,2023-02-14T06:11:39Z,2023-02-14T07:01:53Z,https://github.com/tensorflow/fairness-indicators/issues/335
+334,Internal Only,open,2023-02-08T19:23:32Z,2023-02-08T19:39:57Z,https://github.com/tensorflow/fairness-indicators/pull/334
+322,Set Negative Margin in text input error,open,2022-10-11T16:03:48Z,2022-10-11T16:03:48Z,https://github.com/tensorflow/fairness-indicators/issues/322
+316,WIT not rendering fairness indicators in Vertex Workbench (works in Colab),open,2022-09-30T15:56:06Z,2022-10-02T08:11:23Z,https://github.com/tensorflow/fairness-indicators/issues/316
+314,Upgrades TF dependency to 2.10.,open,2022-08-08T22:08:09Z,2022-08-09T19:35:19Z,https://github.com/tensorflow/fairness-indicators/pull/314
+308,Fixing broken link in Wiki_case_study.ipynb,open,2022-06-17T17:04:01Z,2022-06-17T17:04:05Z,https://github.com/tensorflow/fairness-indicators/pull/308
+302,N/A,open,2022-05-24T21:02:42Z,2022-05-25T07:37:45Z,https://github.com/tensorflow/fairness-indicators/pull/302
+299,Change how the slice is stringified so it is easier to read.,open,2022-05-05T19:18:45Z,2022-05-18T02:52:36Z,https://github.com/tensorflow/fairness-indicators/pull/299
+286,Need help with evaluating model!,open,2022-03-23T21:24:03Z,2022-03-23T21:24:03Z,https://github.com/tensorflow/fairness-indicators/issues/286
+260,Performance of CelebA constrained model,open,2021-06-14T09:53:53Z,2021-06-14T09:53:53Z,https://github.com/tensorflow/fairness-indicators/issues/260
+208,Adding FlipRate metrics for Counterfactual Fairness Evaluation,open,2021-01-05T19:37:58Z,2021-02-10T10:49:48Z,https://github.com/tensorflow/fairness-indicators/pull/208
+206,Adding FlipCount metrics for Counterfactual Fairness Evaluation,open,2020-12-29T13:19:11Z,2021-02-10T10:35:17Z,https://github.com/tensorflow/fairness-indicators/pull/206
+195,"[*.py] Rename ""Arguments:"" to ""Args:""",open,2020-12-05T10:44:37Z,2020-12-05T10:44:37Z,https://github.com/tensorflow/fairness-indicators/pull/195
+104,internal change,open,2020-07-08T03:11:01Z,2020-07-13T16:55:13Z,https://github.com/tensorflow/fairness-indicators/pull/104
+103,internal change,open,2020-07-08T02:36:22Z,2020-07-08T02:36:27Z,https://github.com/tensorflow/fairness-indicators/pull/103
+84,Removing unused RatioValue rendering code.,open,2020-05-18T23:54:49Z,2020-05-19T16:56:51Z,https://github.com/tensorflow/fairness-indicators/pull/84
+69,update paths,open,2020-05-02T08:03:51Z,2020-05-02T08:03:51Z,https://github.com/tensorflow/fairness-indicators/pull/69
+59,Test jupyter,open,2020-04-16T04:51:35Z,2020-04-16T05:09:52Z,https://github.com/tensorflow/fairness-indicators/pull/59
+57,Jupyter Continuous Integration,open,2020-04-15T20:42:55Z,2020-04-16T04:26:49Z,https://github.com/tensorflow/fairness-indicators/pull/57
+9,Internal change,open,2020-01-07T22:54:08Z,2020-01-07T22:54:08Z,https://github.com/tensorflow/fairness-indicators/pull/9
+Issue Number,Title,State,Created At,Updated At,URL
+135,Bump @babel/traverse from 7.20.12 to 7.23.2 in /src/aequitas/fairflow/plots/pareto/js,open,2023-10-18T17:33:07Z,2023-10-18T17:33:08Z,https://github.com/dssg/aequitas/pull/135
+134,Bump postcss from 8.4.21 to 8.4.31 in /src/aequitas/fairflow/plots/pareto/js,open,2023-10-06T03:40:24Z,2023-10-06T03:40:26Z,https://github.com/dssg/aequitas/pull/134
+133,Update compas_demo.html,open,2023-09-06T18:39:41Z,2023-09-06T18:39:41Z,https://github.com/dssg/aequitas/pull/133
+132,Bump tough-cookie from 4.1.2 to 4.1.3 in /src/aequitas/fairflow/plots/pareto/js,open,2023-08-20T23:38:17Z,2023-08-20T23:38:18Z,https://github.com/dssg/aequitas/pull/132
+131,Bump node-forge and webpack-dev-server in /src/aequitas/fairflow/plots/pareto/js,open,2023-08-20T23:38:08Z,2023-08-20T23:38:09Z,https://github.com/dssg/aequitas/pull/131
+130,"Bump d3-color, @visx/axis, @visx/grid, @visx/scale and @visx/shape in /src/aequitas/fairflow/plots/pareto/js",open,2023-08-20T23:38:01Z,2023-08-20T23:38:03Z,https://github.com/dssg/aequitas/pull/130
+129,Bump word-wrap from 1.2.3 to 1.2.5 in /src/aequitas/fairflow/plots/pareto/js,open,2023-08-20T23:37:53Z,2023-08-20T23:37:55Z,https://github.com/dssg/aequitas/pull/129
+128,Bump webpack from 5.75.0 to 5.76.0 in /src/aequitas/fairflow/plots/pareto/js,open,2023-08-20T23:37:19Z,2023-08-20T23:37:20Z,https://github.com/dssg/aequitas/pull/128
+123,Deal with multiclass problems,open,2023-02-09T12:44:56Z,2023-02-09T12:44:56Z,https://github.com/dssg/aequitas/issues/123
+122,Error when running get_disparity_major_group with check_significance=True,open,2023-01-11T14:54:04Z,2023-01-11T14:54:04Z,https://github.com/dssg/aequitas/issues/122
+121,Adds list cast to inferred attribute columns,open,2022-12-15T10:05:40Z,2022-12-15T10:05:40Z,https://github.com/dssg/aequitas/pull/121
+117,threshold within aequitas (using top k or score threshold),open,2022-08-12T15:02:12Z,2022-08-12T15:02:12Z,https://github.com/dssg/aequitas/issues/117
+116,deal with multiclass problems,open,2022-08-12T15:01:24Z,2023-02-06T07:11:38Z,https://github.com/dssg/aequitas/issues/116
+115,running aequitas without label_value,open,2022-05-17T12:49:24Z,2022-05-17T12:49:24Z,https://github.com/dssg/aequitas/issues/115
+114,issue regarding uploading the data set and run it on compas notebook,open,2021-10-13T19:57:39Z,2021-10-13T19:57:39Z,https://github.com/dssg/aequitas/issues/114
+113,how to use web api on different data set ,open,2021-10-13T19:36:41Z,2021-10-13T19:36:41Z,https://github.com/dssg/aequitas/issues/113
+112,Issue regarding running my data set on compass file as a reference ,open,2021-10-13T10:37:54Z,2021-11-12T10:35:01Z,https://github.com/dssg/aequitas/issues/112
+111,Change the way to launch the web-app (or update the doc),open,2021-09-14T16:22:12Z,2021-10-13T15:19:59Z,https://github.com/dssg/aequitas/issues/111
+110,Bump markdown2 from 2.3.5 to 2.4.0 in /requirement,open,2021-06-02T21:47:23Z,2023-08-20T23:36:21Z,https://github.com/dssg/aequitas/pull/110
+109,Separated setups,open,2021-05-28T11:15:25Z,2023-03-24T13:55:06Z,https://github.com/dssg/aequitas/pull/109
+108,Different setups,open,2021-05-28T11:01:43Z,2021-05-28T11:01:43Z,https://github.com/dssg/aequitas/issues/108
+107,xhtml2pdf broken in python 3.8 - AttributeError: module 'cgi' has no attribute 'escape',open,2021-03-11T13:32:46Z,2021-03-11T13:32:46Z,https://github.com/dssg/aequitas/issues/107
+95,[Feature] Add Group-Size adjusted False Positives and False Negatives columns to get_crosstabs method,open,2020-10-21T11:08:21Z,2020-10-21T11:08:21Z,https://github.com/dssg/aequitas/issues/95
+94,[Feature] Expose the required cols in get_crosstabs signature,open,2020-08-23T23:49:25Z,2020-08-23T23:49:25Z,https://github.com/dssg/aequitas/issues/94
+91,fix missing condition for label_score_ref,open,2020-08-02T19:29:50Z,2020-08-02T19:29:50Z,https://github.com/dssg/aequitas/pull/91
+90,Absolute vs. relative disparity and the implications for fairness results,open,2020-07-24T09:30:43Z,2020-07-29T12:48:51Z,https://github.com/dssg/aequitas/issues/90
+89,Confusion of Statistical Parity and Impact Parity?,open,2020-07-24T09:01:37Z,2020-07-24T09:07:09Z,https://github.com/dssg/aequitas/issues/89
+87,Details on how significance is calculated?,open,2020-07-17T09:09:59Z,2020-07-29T08:18:53Z,https://github.com/dssg/aequitas/issues/87
+86,[Error] get_disparity_predefined_group() raises AttributeError,open,2020-07-09T09:33:12Z,2021-03-19T10:29:56Z,https://github.com/dssg/aequitas/issues/86
+85,Question: Can we use the fairness tree for regression tasks?,open,2020-07-08T06:37:17Z,2020-07-08T06:37:17Z,https://github.com/dssg/aequitas/issues/85
+Issue Number,Title,State,Created At,Updated At,URL
+42,Consider Rewording Your Description,open,2020-02-27T21:43:52Z,2020-02-27T21:43:52Z,https://github.com/cosmicBboy/themis-ml/issues/42
+41,ACF algo,open,2019-05-20T16:41:03Z,2021-04-20T10:21:23Z,https://github.com/cosmicBboy/themis-ml/issues/41
+40,Fair ANN with adversarial networks,open,2018-10-12T16:54:04Z,2018-10-12T16:54:04Z,https://github.com/cosmicBboy/themis-ml/issues/40
+32,Add docstrings to the data_types classes,open,2017-10-02T00:29:10Z,2017-10-02T00:29:10Z,https://github.com/cosmicBboy/themis-ml/issues/32
+30,Add logo to favicon and upper left navigation home button,open,2017-09-30T19:26:05Z,2017-09-30T19:26:05Z,https://github.com/cosmicBboy/themis-ml/issues/30
+29,Add data from Bureau of Labor Statistics wage data,open,2017-09-30T19:16:26Z,2017-09-30T19:16:26Z,https://github.com/cosmicBboy/themis-ml/issues/29
+28,Create stratified metrics for mean difference and normalized mean difference,open,2017-09-30T18:58:14Z,2017-09-30T19:00:58Z,https://github.com/cosmicBboy/themis-ml/issues/28
+14,"Implement ""Discrimination-aware Ensemble Classification"" postprocessing",open,2017-08-30T04:37:23Z,2017-08-30T04:37:23Z,https://github.com/cosmicBboy/themis-ml/issues/14
+13,"Implement ""Prejudice Remover Regularized"" Estimator",open,2017-08-30T04:34:11Z,2017-08-30T04:34:11Z,https://github.com/cosmicBboy/themis-ml/issues/13
+12,"Implement ""Sampling"" fairness-aware preprocessing",open,2017-08-30T04:22:13Z,2017-08-30T04:22:13Z,https://github.com/cosmicBboy/themis-ml/issues/12
+11,"Implement ""Reweighting"" fairness-aware preprocessing",open,2017-08-30T04:06:31Z,2017-08-30T04:16:37Z,https://github.com/cosmicBboy/themis-ml/issues/11
+6,"Implement ""situation test score"" scoring function",open,2017-08-29T01:14:09Z,2017-08-29T01:14:09Z,https://github.com/cosmicBboy/themis-ml/issues/6
+5,"Implement the ""consistency"" scoring function",open,2017-08-29T01:13:43Z,2017-08-29T01:13:43Z,https://github.com/cosmicBboy/themis-ml/issues/5
+2,Build benchmark classifiers using the german credit data,open,2017-08-29T01:10:00Z,2017-08-29T01:12:06Z,https://github.com/cosmicBboy/themis-ml/issues/2
+Issue Number,Title,State,Created At,Updated At,URL
+14,Bump tensorflow from 1.13.1 to 2.11.1,open,2023-03-24T22:55:13Z,2023-03-24T22:55:15Z,https://github.com/INSPIRED-GMU/fairkit-learn/pull/14
+12,Bump numpy from 1.15.4 to 1.22.0,open,2022-06-22T01:38:40Z,2022-06-22T01:38:41Z,https://github.com/INSPIRED-GMU/fairkit-learn/pull/12
+7,fair_metrics,open,2021-06-18T11:07:48Z,2021-06-18T11:07:48Z,https://github.com/INSPIRED-GMU/fairkit-learn/issues/7
+Issue Number,Title,State,Created At,Updated At,URL
+4,Enable passing Laplace smoothing parameter from higher level APIs,open,2020-09-15T01:28:11Z,2020-09-15T01:28:11Z,https://github.com/linkedin/LiFT/issues/4
+Issue Number,Title,State,Created At,Updated At,URL
+31,Understanding statistical tests used in Audit-AI,open,2021-04-14T13:39:25Z,2022-04-13T07:27:48Z,https://github.com/pymetrics/audit-ai/issues/31
+30,"Implementation suggestions: How to use the ""debias set"" for different roles?",open,2020-08-04T16:08:49Z,2020-08-24T15:13:33Z,https://github.com/pymetrics/audit-ai/issues/30
+Issue Number,Title,State,Created At,Updated At,URL
+147,E.5: systematic effects (consider adding),open,2022-06-06T17:23:20Z,2023-05-10T18:56:41Z,https://github.com/drivendataorg/deon/issues/147
+145,Add LGBTQ+ data use examples,open,2022-05-23T17:47:44Z,2022-08-10T14:45:05Z,https://github.com/drivendataorg/deon/issues/145
+123,Create examples_of_ethical_issues_RO.yml,open,2021-03-02T10:50:56Z,2022-01-28T18:22:10Z,https://github.com/drivendataorg/deon/pull/123
+122,Create checklist_RO.yml,open,2021-03-02T10:50:21Z,2022-01-28T18:22:10Z,https://github.com/drivendataorg/deon/pull/122
+114,Example of Bias in Adversarial Faces,open,2020-06-21T16:50:20Z,2020-06-24T16:36:33Z,https://github.com/drivendataorg/deon/issues/114
+109,Add commandline argument for different translations,open,2020-06-10T22:53:07Z,2021-03-04T06:28:09Z,https://github.com/drivendataorg/deon/issues/109
+95,Establish consistent capitalization,open,2020-01-14T06:07:17Z,2020-01-16T02:29:03Z,https://github.com/drivendataorg/deon/issues/95
+89,Document contribution instructions,open,2020-01-03T20:19:25Z,2022-03-07T18:23:54Z,https://github.com/drivendataorg/deon/issues/89
+82,UPDATE/SPLIT E.4. into Unintended use and Aversarial use,open,2018-11-07T22:30:02Z,2018-11-07T22:30:02Z,https://github.com/drivendataorg/deon/issues/82
+65,Custom checklist parameter should accept urls,open,2018-08-31T22:31:12Z,2018-08-31T22:31:12Z,https://github.com/drivendataorg/deon/issues/65
+61,Find a better name for table of ethical issues,open,2018-08-27T22:09:26Z,2018-08-27T22:09:50Z,https://github.com/drivendataorg/deon/issues/61
+37,Add option to exclude ids from rendering,open,2018-08-22T19:17:52Z,2018-08-27T22:02:31Z,https://github.com/drivendataorg/deon/issues/37
+33,Web application for use and accountability,open,2018-08-21T18:58:48Z,2018-11-06T16:06:54Z,https://github.com/drivendataorg/deon/issues/33
+31,Is C.4 sufficiently clear?,open,2018-08-21T18:13:51Z,2018-08-21T18:16:44Z,https://github.com/drivendataorg/deon/issues/31
+30,Implement docs page for best practices / resources,open,2018-08-21T18:09:31Z,2020-01-30T21:29:55Z,https://github.com/drivendataorg/deon/issues/30
+27,"Consider adding a ""data managers"" checklist",open,2018-08-21T17:53:02Z,2018-08-21T17:53:02Z,https://github.com/drivendataorg/deon/issues/27
+6,Suport LaTeX format,open,2018-08-08T22:10:31Z,2020-10-04T02:27:30Z,https://github.com/drivendataorg/deon/issues/6
+5,Support RTF,open,2018-08-08T22:07:07Z,2020-10-04T02:27:45Z,https://github.com/drivendataorg/deon/issues/5
