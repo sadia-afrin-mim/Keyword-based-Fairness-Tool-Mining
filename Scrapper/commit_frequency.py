@@ -42,7 +42,7 @@ def get_commit_frequency(repo_url, token):
 
 if __name__ == "__main__":
     # Replace 'YOUR_GITHUB_TOKEN' with your actual GitHub token
-    github_token = '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'
+    github_token = ''
 
     # Replace 'OWNER/REPO_NAME' with the desired GitHub repository
     repository_url = 'https://github.com/microsoft/responsible-ai-toolbox'
